@@ -1,0 +1,16 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+
+}
+
+.navbar {
+    background-color: aquamarine;
+}
+.quem-somos {
+    background-color: burlywood;
+    
+}
+.margin {
+    padding-top: 20px;
+}
